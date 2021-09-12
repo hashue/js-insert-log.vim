@@ -7,3 +7,4 @@ Insert console debug method of javascript.
 ## Future works (TODO)
 - add README.md
 - add help
+- add demo video
